@@ -1,7 +1,11 @@
-Hello and welcome! I'm Jaehyeon Jeong, a junior AI Agentic Developer.
+Hello and welcome! I'm Jaehyeon Jeong, an AI Engineer building LLM-powered systems and autonomous agents.
 
-* Skills: Python, AWS, Docker, MySQL, FastAPI
-* Agent Framework: Langgraph, OpenAI Agents SDK, Google ADK, CrewAI, n8n
+### Core Skills
+* Backend: Python, FastAPI
+* AI Agent/LLM: LangGraph, Google ADK, OpenAI Agents SDK
+* DevOps: Docker, GitHub Actions, AWS
+* Databases: MySQL, PostgreSQL, SQLite
+
 * [Website](https://theeojeong.github.io/profile/)
 
 ### Contacts
