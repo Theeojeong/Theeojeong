@@ -2,7 +2,7 @@ Hello and welcome! I'm Jaehyeon Jeong, an AI Engineer building LLM-powered syste
 
 ### Core Skills
 - Backend: Python, FastAPI
-- AI Agent/LLM: LangGraph, Google ADK, OpenAI Agents SDK
+- AI/LLM: LangGraph, Google ADK, OpenAI Agents SDK
 - DevOps: Docker, GitHub Actions, AWS
 - Databases: MySQL, PostgreSQL, SQLite
 - [Website](https://theeojeong.github.io/profile/)
