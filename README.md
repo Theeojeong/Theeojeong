@@ -1,19 +1,25 @@
-Hello and welcome! I'm Jaehyeon Jeong, an AI Engineer building LLM-powered systems and autonomous agents.
+Hello and welcome! I'm Jaehyeon Jeong, an AI Agents Developer building LLM-powered systems and autonomous agents.
 
 ### Skills
 
-- Backend: Python, FastAPI
-- AI/LLM: LangGraph, Google ADK, OpenAI Agents SDK, LangChain, n8n, CrewAI
+---
+
+- AI/LLM: LangGraph, OpenAI Agents SDK, Google ADK, LangChain, n8n, CrewAI
+- BE: FastAPI
 - RAG: LangChain, Pinecone, Chroma, Faiss
-- DevOps: Docker, GitHub Actions, Git, AWS, GCP
-- Databases: PostgreSQL, MySQL, SQLite, MongoDB
+- DevOps: AWS, Docker, GitHub Actions
+- Databases: PostgreSQL, MySQL, SQLite, MongoDB, Redis
 - [Website](https://theeojeong.github.io/profile/)
 
 ### Contacts
+
+---
 
 - wogusto13@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/jaehyeon-j-174b55269/)
 
 ### Education
 
-- University of Science and Technology Beijing, Bachelor of International Economics and Trade
+---
+
+- University of Science and Technology Beijing: Bachelor of International Economics and Trade
