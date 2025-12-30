@@ -3,10 +3,10 @@ Hello and welcome! I'm Jaehyeon Jeong, an AI Agents Developer building LLM-power
 <h2 align="left">Skills</h2>
 
 - AI/LLM: LangGraph, OpenAI Agents SDK, Google ADK, LangChain, n8n, CrewAI
-- BE: FastAPI
-- RAG: LangChain, Pinecone, Chroma, Faiss
+- Backend: FastAPI
+- RAG: LangGraph, LangChain, Pinecone, Chroma
 - DevOps: AWS, Docker, GitHub Actions
-- Databases: PostgreSQL, MySQL, SQLite, MongoDB, Redis
+- Databases: PostgreSQL, MySQL, Redis, SQLite, MongoDB 
 - [Website](https://theeojeong.github.io/profile/)
 
 <h2 align="left">Contacts</h2>
@@ -16,4 +16,4 @@ Hello and welcome! I'm Jaehyeon Jeong, an AI Agents Developer building LLM-power
 
 <h2 align="left">Education</h2>
 
-- University of Science and Technology Beijing: Bachelor of International Economics and Trade
+- University of Science and Technology Beijing: Bachelor of Economics
