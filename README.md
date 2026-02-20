@@ -1,10 +1,10 @@
-Hello and welcome! I'm Jaehyeon Jeong, an AI Application Engineer building Agentic RAG systems, LLM-powered solutions and autonomous agents.
+Hello and welcome! I'm Jaehyeon Jeong, a Junior AI/ML Researcher.
 
 <h2 align="left">Skills</h2>
 
 - AI/LLM: LangGraph, LangChain, OpenAI Agents SDK, Google ADK, n8n, CrewAI
-- Backend: FastAPI
-- RAG & Vector DB: LangGraph, LangChain, PGVector
+- Backend: Python, FastAPI
+- RAG: LangGraph, LangChain, PGVector
 - DevOps: AWS, Docker, GitHub Actions
 - Databases: PostgreSQL, MySQL, Redis, SQLite, MongoDB
 - [Website](https://theeojeong.github.io/profile/)
